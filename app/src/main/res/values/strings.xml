@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hinvipsKotlin</string>
+    <string name="menu">Menu</string>
+    <string name="start">Start</string>
+    <string name="info">Information</string>
+    <string name="exit">Exit</string>
+    <string name="language">Language</string>
+    <string name="door">Door</string>
+    <string name="wall">Wall</string>
+    <string name="corridor">Corridor</string>
+    <string name="elevator">Elevator</string>
+    <string name="stairs">Stairs</string>
+    <string name="email_address_pnu_pusan_ac_kr">Email Address: pnu@pusan.ac.kr</string>
+    <string name="mobile_number_010_0000_0000">Mobile Number: 010-0000-0000</string>
+    <string name="infoo">Info</string>
+    <string name="menuu">Menu</string>
+    <string name="have_any_questions">Have any questions?</string>
+    <string name="text1">What is SHIMA?</string>
+    <string name="text2">This application gives an abstract view of the inside of building including the locations of rooms, and other things in the building.
+        Please keep in mind that it is not a navigation application.
+        It makes a bunch of different reactions when a person touches an obstacle in the map, depending on the type of obstacle. The appropiate reactions for every obstacle are listed below.
+        To trigger a reaction you should double tap an appropriate button and keep pressing on it.</string>
+    <string name="pop_up1">Welcome to our demo SHIMA application"</string>
+    <string name="pop_up2">Please make sure you understand the way of using this application before the start. Do you want to have a look on short information?</string>
+</resources>

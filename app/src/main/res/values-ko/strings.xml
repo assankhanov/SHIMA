@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hinvipsKotlin</string>
+    <string name="menu">메뉴</string>
+    <string name="start">시작</string>
+    <string name="info">정보</string>
+    <string name="exit">종료</string>
+    <string name="language">언어</string>
+    <string name="door">문</string>
+    <string name="wall">벽</string>
+    <string name="corridor">복도</string>
+    <string name="elevator">엘리베이터</string>
+    <string name="stairs">계단</string>
+    <string name="email_address_pnu_pusan_ac_kr">이메일: pnu@pusan.ac.kr</string>
+    <string name="mobile_number_010_0000_0000">휴대폰 번호: 010-0000-0000</string>
+    <string name="infoo">정보</string>
+    <string name="menuu">메뉴</string>
+    <string name="have_any_questions">궁금한게 있으신가요?</string>
+    <string name="text1">SHIMA가 무엇인가요?</string>
+    <string name="text2">본 애플리케이션은 방의 위치와 같은 여러 요소들을 포함한 건물의 추상적 뷰를 제공합니다.
+        네비게이션 애플리케이션이 아님을 명심하세요. 지도 속의 다양한 장애물들을 터치하였을 때 장애물의 종류에 따라 다양한 반응을 생성합니다.
+        모든 장애물의 대한 적절한 반응은 아래에 표시되어 있습니다. 반응이 작동하게 하기위해서는 적절한 버튼을 두번 누른 상태에서 계속 누르고 있어야 합니다.</string>
+    <string name="pop_up1">SHIMA 데모 애플리케이션 사용을 환영합니다.</string>
+    <string name="pop_up2">애플리케이션을 사용하기전에 사용법을 꼭 숙지해주세요. 간단한 설명을 보시겠습니까?</string>
+</resources>

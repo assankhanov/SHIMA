@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hinvipsKotlin</string>
+    <string name="menu">Démarrer</string>
+    <string name="start">Lancer</string>
+    <string name="info">Information</string>
+    <string name="exit">Quitter</string>
+    <string name="language">Langage</string>
+    <string name="door">Porte</string>
+    <string name="wall">Mur</string>
+    <string name="corridor">Couloir</string>
+    <string name="elevator">Ascenseur</string>
+    <string name="stairs">Escaliers</string>
+    <string name="email_address_pnu_pusan_ac_kr">Adresse e-mail: pnu@pusan.ac.kr</string>
+    <string name="mobile_number_010_0000_0000">Numéro de téléphone: 010-0000-0000</string>
+    <string name="infoo">Information</string>
+    <string name="menuu">Menu</string>
+    <string name="have_any_questions">Des questions?</string>
+    <string name="text1">Qu\'est-ce que SHIMA?</string>
+    <string name="text2">Cette application à pour but de fournir une carte sensorielle de l\'intérieur d\'un bâtiment.
+        Elle indique des objets tels que les pièces ou les portes. Ce n\'est en aucun cas une application de navigation.
+        En touchant la carte, l\'application donne des réponses sensorielles adéquates.
+        Ces réponses et leur objet correspondant sont listés ci-dessous.
+        Veuillez rester appuyer après l\'activation du bouton pour obtenir la réponse.</string>
+    <string name="pop_up1">Bienvenue dans la version de démonstration de SHIMA.</string>
+    <string name="pop_up2">Soyez sûr d\'avoir compris le fonctionnement de l\'application avant de démarrer.
+        Souhaitez-vous une explication sur l\'utilisation de l\'application?</string>
+
+</resources>
